@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2.1 (64-bit)
+# SW Build 5266912 on Sun Dec 15 09:03:24 MST 2024
+# IP Build 5264866 on Sun Dec 15 16:27:47 MST 2024
+# SharedData Build 5264680 on Wed Dec 11 12:48:36 MST 2024
+# Start of session at: Mon Feb 24 11:23:10 2025
+# Process ID         : 22128
+# Current directory  : D:/VIVADO circuits/_4_to_1_MUX_using_case/_4_to_1_MUX_using_case.runs/synth_1
+# Command line       : vivado.exe -log _4_to_1_MUX.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source _4_to_1_MUX.tcl
+# Log file           : D:/VIVADO circuits/_4_to_1_MUX_using_case/_4_to_1_MUX_using_case.runs/synth_1/_4_to_1_MUX.vds
+# Journal file       : D:/VIVADO circuits/_4_to_1_MUX_using_case/_4_to_1_MUX_using_case.runs/synth_1\vivado.jou
+# Running On         : Lenovo-ideapad-gaming-3
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i5-11320H @ 3.20GHz
+# CPU Frequency      : 3187 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8362 MB
+# Swap memory        : 19327 MB
+# Total Virtual      : 27690 MB
+# Available Virtual  : 14711 MB
+#-----------------------------------------------------------
+source _4_to_1_MUX.tcl -notrace
